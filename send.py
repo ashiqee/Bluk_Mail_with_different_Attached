@@ -6,8 +6,8 @@ from email.message import EmailMessage
 # ------------------------------
 # CONFIGURATION — CHANGE THESE
 # ------------------------------
-EMAIL_ADDRESS = "archofficebuet@gmail.com"
-EMAIL_PASSWORD = "duqp wmpf umpc jekq"     # Use Gmail App Password
+EMAIL_ADDRESS = "email"
+EMAIL_PASSWORD = "apppPassword"     # Use Gmail App Password
 ATTACHMENT_FOLDER = "attachments"
 
 # Load CSV
